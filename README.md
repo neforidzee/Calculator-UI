@@ -1,2 +1,2 @@
 # Calculator-UI
-Калькулятор с UI на C++. Создан с помощью C++ Builder 12.
+Калькулятор с UI на C++. Создан с помощью C++ Builder 12. by neforidzee
